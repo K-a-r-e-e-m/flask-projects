@@ -17,3 +17,7 @@ required for this project flask, flask_sqlalchemy, etc..
 run : `
 python main.py
 `
+
+![home page](to-do-list.png)
+![edit task](edit_task.png)
+![delete task](delete_task.png)
