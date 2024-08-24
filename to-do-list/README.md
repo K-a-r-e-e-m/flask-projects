@@ -9,3 +9,11 @@ create new task, edit existing task, delete task.
 - Python with Flask web framework
 - HTML, CSS, Boostrap
 - Database SQLlite
+
+***Run application**
+- to run the project you need first to check that you install the technologies that 
+required for this project flask, flask_sqlalchemy, etc..
+
+run : `
+python main.py
+`
