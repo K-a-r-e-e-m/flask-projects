@@ -10,7 +10,7 @@ create new task, edit existing task, delete task.
 - HTML, CSS, Boostrap
 - Database SQLlite
 
-***Run application**
+***How to Run application***
 - to run the project you need first to check that you install the technologies that 
 required for this project flask, flask_sqlalchemy, etc..
 
