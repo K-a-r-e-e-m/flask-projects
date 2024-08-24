@@ -4,7 +4,7 @@ you we can applay the CRUD operation on this project for
 create new task, edit existing task, delete task.
 
 
-### Technologis
+### Technologies
 
 - Python with Flask web framework
 - HTML, CSS, Boostrap
