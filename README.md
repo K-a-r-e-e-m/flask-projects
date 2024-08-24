@@ -2,7 +2,7 @@
 In this repo i will share my flask simple projects.
 
 
-### Technologis
+### Technologies
 
 - Python with Flask web framework
 - HTML, CSS, Boostrap
