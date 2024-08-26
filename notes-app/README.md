@@ -5,11 +5,19 @@ In this project i learned:
 - How to make an Authentication system so user can login, logout, sign up
 - How to use python packages and organize files
 - How to use blueprint in flask
-- Flask routes 
+- How to create flask routes for our website
+- Templating lagnuage (jinja)
 
-**Technologies**
+**Technologies**:
+
 `python`
+
 `sqlite` database
+
 `Flask`
+
+`jinja`
+
 `SQLAlchemy`
+
 `HTML` `CSS` `Bootstrap`
